@@ -1,0 +1,21 @@
+{
+  "name": "next-routes-demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev:custom": "node server.js",
+    "dev": "next",
+    "build": "next build",
+    "start": "next start"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.15.3",
+    "next": "^3.0.1-beta.8",
+    "next-routes": "^1.0.37",
+    "react": "^15.6.1",
+    "react-dom": "^15.6.1"
+  }
+}
